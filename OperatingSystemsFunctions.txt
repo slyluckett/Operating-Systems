@@ -1,0 +1,4 @@
+An operating system function is security.
+A password that allows access to computers, mobile device's, and networks.
+It uses password protection for user data and prevents unauthorized access to the data and programs of users. 
+The operating system checks password entries, and denies unmatching and grants matching entries for access.
