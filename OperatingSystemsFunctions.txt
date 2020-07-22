@@ -4,3 +4,5 @@ It uses password protection for user data and prevents unauthorized access to th
 The operating system checks password entries, and denies unmatching and grants matching entries for access.
 
 Another operating system function is a Performance monitor. It monitors system health for improving performance. It records response times between service requests and system response for an overall view of the system health.
+
+Coordinating Tasks is a operating system function. It determines the order to process tasks which the processor manages. Some tasks are receiving data from input devices, processing instructions, sending info to output devices, and transferring stuff from storage to memory and memory to storage.
